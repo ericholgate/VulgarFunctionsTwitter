@@ -7,7 +7,7 @@
   title     = {Why Swear? Analyzing and Inferring the Functions of Vulgar Expressions,
   booktitle = {Conference on Empirical Methods in Natural Language Processing (EMNLP)},
   year      = {2018},
-  pages     = {to appear},
+  pages     = {4405-4414},
 }
 ```
 *Use of the data presented here must abide by the Twitter Terms of Service and Developer Policy*
